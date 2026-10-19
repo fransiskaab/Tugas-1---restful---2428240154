@@ -1,10 +1,11 @@
+
 {
   "name": "tugas1-restful-2428240154",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "RESTful API Pengelolaan Pesanan Laundry",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
